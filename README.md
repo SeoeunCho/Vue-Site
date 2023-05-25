@@ -4,4 +4,4 @@
 YouTube api를 적용한 페이지를 추가했습니다.<br>
 <br>
 
-Vue웹 바로가기! ➡ chosvue.web.app/
+Vue웹 바로가기! ➡ https://chosvue.web.app/
